@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 #include "tilda-cli-options.h"
 
 #include <tilda-config.h>
